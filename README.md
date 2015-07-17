@@ -63,6 +63,6 @@ Se o local tiver televisor com entrada para notebooks, é possível fazer uma ro
 * [Facebook](https://www.facebook.com/grupypr)
 * [Google Plus]()
 * [Twitter](https://twitter.com/grupypr)
-* [Wiki](http://wiki.python.org.br/GruPyPR)
+* [Wiki](http://wiki.python.org.br/GrupyPr)
 
 **De resto, conte com nossa ajuda (@wiliamsouza e @ramiroluz) e nos vemos lá!**
