@@ -16,7 +16,7 @@ Para organizar encontros do GruPy-PR é necessário apenas:
 
 Os encontros não são restritos apenas a faculdades ou empresas, podem ser feitos em bares, praças e locais públicos, basta alinhar o intuito/formato do evento ao local.
 
-Atualmente os encontros estão sendo organizados e divulgados pelo Meetup ([http://www.meetup.com/pt/GruPy-PR/](http://www.meetup.com/pt/GruPy-PR/)), com o Wiliam Souza ([wiliamsouza83@gmail](mailto:wiliamsouza83@gmail.com)) e Ramiro Luz ([ramiroluz@gmail.com](mailto:ramiroluz@gmail.com)) como coordenadores, além também da lista de discussão do grupo no Google Groups ([https://groups.google.com/forum/#!forum/grupy-pr](https://groups.google.com/forum/#!forum/grupy-pr)).
+Atualmente os encontros estão sendo organizados e divulgados pelo Meetup ([http://www.meetup.com/pt/GruPy-PR/](http://www.meetup.com/pt/GruPy-PR/)), com o Ramiro Luz ([ramiroluz@gmail.com](mailto:ramiroluz@gmail.com)) como coordenador, além também da lista de discussão do grupo no Google Groups ([https://groups.google.com/forum/#!forum/grupy-pr](https://groups.google.com/forum/#!forum/grupy-pr)).
 
 ### O que é necessário para organizar um encontro?
 
