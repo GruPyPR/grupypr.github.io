@@ -10,7 +10,7 @@ Encontros antigos fica no [wiki](https://github.com/GruPyPR/encontros/wiki).
 
 Para organizar encontros do GruPy-PR é necessário apenas:
 
-* um epraço, com a capacidade mínima para 10 pessoas;
+* um espraço, com a capacidade mínima para 10 pessoas;
 * agendar uma data e horário;
 * e divulgar nas redes sociais.
 
