@@ -1,5 +1,7 @@
 ![GruPy-PR](https://avatars1.githubusercontent.com/u/13356579?v=3&s=200)
 
+[![](http://grupypr.herokuapp.com/badge.svg)](https://grupypr.herokuapp.com/)
+
 Aqui você encontra informações de como fazer um encontro e sobre encontros
 antigos.
 
@@ -64,5 +66,6 @@ Se o local tiver televisor com entrada para notebooks, é possível fazer uma ro
 * [Google Plus]()
 * [Twitter](https://twitter.com/grupypr)
 * [Wiki](http://wiki.python.org.br/GrupyPr)
+* [Slack](https://github.com/GruPyPR/encontros/wiki/slack)
 
 **De resto, conte com nossa ajuda (@wiliamsouza e @ramiroluz) e nos vemos lá!**
