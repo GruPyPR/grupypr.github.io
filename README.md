@@ -12,7 +12,7 @@ Encontros antigos fica no [wiki](https://github.com/GruPyPR/encontros/wiki).
 
 Para organizar encontros do GruPy-PR é necessário apenas:
 
-* um espraço, com a capacidade mínima para 10 pessoas;
+* um espaço, com a capacidade mínima para 10 pessoas;
 * agendar uma data e horário;
 * e divulgar nas redes sociais.
 
@@ -28,13 +28,13 @@ Quanto a divulgação no Meetup, tanto @wiliamsouza quanto @ramiroluz nos compro
 
 ### Qual data/horário podem ser feito os encontros?
 
-Deixe a sua imaginação rolar, não há qualquer tipo de restrição. Nossos últimos encontros foram aos sábados devido a dipronibilidade tanto dos organizadores quanto dos participantes ser maior, mas isso não é regra.
+Deixe a sua imaginação rolar, não há qualquer tipo de restrição. Nossos últimos encontros foram aos sábados devido a disponibilidade tanto dos organizadores quanto dos participantes ser maior, mas isso não é regra.
 
 Geralmente acontece um encontro por mês, mas se houver mais, melhor ainda.
 
 ### Como organizar um encontro no formato de palestras?
 
-Primeiramente é necessário encontrar um local onde haja projetor ou televisão para a exibição das tranprarências/slides. Depois é aberto o chamado para palestras, geralmente utilizamos a ferramenta do [Call4paperz](http://call4paperz.com/) ou [Speakerfight](http://preakerfight.com/). Basta criar o evento e fazer as chamadas nessas duas ferramentas.
+Primeiramente é necessário encontrar um local onde haja projetor ou televisão para a exibição das transparências/slides. Depois é aberto o chamado para palestras, geralmente utilizamos a ferramenta do [Call4paperz](http://call4paperz.com/) ou [Speakerfight](http://speakerfight.com/). Basta criar o evento e fazer as chamadas nessas duas ferramentas.
 
 Ou se preferir, poderá ser feito a inscrição pelo Google Forms. Há também a possibilidade de fazer o evento com palestrantes convidados.
 
@@ -44,7 +44,7 @@ Palestras: 30 minutos;
 Mini-palestras: 15 minutos;
 Lightning-talks: 5 minutos.
 
-O Coffee-break não é obrigatório, mas se o local oferecer e houver dipronibilidade, melhor ainda. Senão é possível avaliar com empresas sobre o patrocínio.
+O Coffee-break não é obrigatório, mas se o local oferecer e houver disponibilidade, melhor ainda. Senão é possível avaliar com empresas sobre o patrocínio.
 
 **Dicas**
 
