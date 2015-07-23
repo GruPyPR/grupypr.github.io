@@ -2,10 +2,11 @@
 
 [![](http://grupypr.herokuapp.com/badge.svg)](https://grupypr.herokuapp.com/)
 
-Aqui você encontra informações de como fazer um encontro e sobre encontros
-antigos.
+Aqui você encontra informações de como fazer um encontro.
 
-Encontros antigos fica no [wiki](https://github.com/GruPyPR/encontros/wiki).
+Quem somos? O que fazemos? Como fazemos? e outras informações você encontra no [wiki](https://github.com/GruPyPR/encontros/wiki)
+
+Encontros antigos ficam no [wiki](https://github.com/GruPyPR/encontros/wiki).
 
 
 ## Muito obrigado pelo seu interesse em organizar encontros do GruPy-PR.
