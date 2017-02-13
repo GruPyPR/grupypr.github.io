@@ -38,3 +38,4 @@ RELATIVE_URLS = True
 
 STATIC_PATHS = ['images']
 ARTICLE_URL = '{date:%Y}/{slug}.html'
+ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
