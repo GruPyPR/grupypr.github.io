@@ -10,6 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
 
+LOCALE = ('pt_BR', 'pt')
 DEFAULT_LANG = 'pt'
 
 # Feed generation is usually not desired when developing
@@ -34,9 +35,14 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/favicon.ico', 'extra/robots.txt']
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+}
 ARTICLE_URL = '{date:%Y}/{slug}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
+DEFAULT_DATE_FORMAT = ('%d de %B de %Y')
 
 
 # THEME CONFIGS
@@ -57,4 +63,12 @@ MEDIUS_AUTHORS = {
             ('twitter-square', 'https://twitter.com/turicas'),
         )
     },
+}
+
+# Configurações para página de categorias
+MEDIUS_CATEGORIES = {
+    'Encontros': {
+        'description': 'Post-mortem dos nossos encontros',
+        'thumbnail': '/images/thumbnail/grupypr-thumb.png',
+    }
 }

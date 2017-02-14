@@ -17,7 +17,7 @@ muita conversa sobre diversos assuntos maneiros e algumas apresentações sobre
 [Python](http://python.org/), obviamente.
 
 [![Galera reunida no primeiro encontro de
-2017]({filename}/images/thumbnail/2017-02-12-encontro.jpg)]({filename}/images/2017-02-12-encontro.jpg)
+2017](/images/thumbnail/2017-02-12-encontro.jpg)](/images/2017-02-12-encontro.jpg)
 
 
 ## Participantes
