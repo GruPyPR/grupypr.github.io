@@ -1,8 +1,11 @@
 Title: Primeiro encontro do ano
+SubTitle: No dia 12 de fevereiro fizemos o primeiro encontro de 2017 e foi super legal! :)
 Date: 2017-02-13 10:20
 Category: Encontros
+Tags: Python, Encontros
 Author: Álvaro Justen
-Summary: No dia 12 de fevereiro fizemos o primeiro encontro de 2017 e foi super legal! :)
+Cover: http://lorempixel.com/1920/800/abstract/
+---
 
 Ontem (12 de fevereiro de 2017) rolou o primeiro encontro do
 [GruPy-PR](https://grupypr.github.io/) do ano - e pelo que conversamos nesse
