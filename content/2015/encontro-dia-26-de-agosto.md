@@ -1,7 +1,6 @@
 Title: Encontro dia  26 de Agosto
 SubTitle: Um rápido postmortem do que aconteceu
 Category: Encontros
-Cover: https://placeimg.com/1920/800/nature
 Slug: encontro-dia-26-de-agosto
 Date: 2015-08-26
 Tags: python, encontros

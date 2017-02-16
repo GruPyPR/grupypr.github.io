@@ -1,7 +1,6 @@
 Title: Encontro dia 09 de Setembro
 SubTitle: Um rápido postmortem do que aconteceu
 Category: Encontros
-Cover: https://placeimg.com/1920/800/nature
 Slug: encontro-dia-09-de-setembro
 Date: 2015-09-09
 Tags: python, encontros

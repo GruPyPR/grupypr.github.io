@@ -4,7 +4,6 @@ Date: 2017-02-13 10:20
 Category: Encontros
 Tags: Python, Encontros
 Author: Álvaro Justen
-Cover: https://placeimg.com/1920/800/nature
 ---
 
 Ontem (12 de fevereiro de 2017) rolou o primeiro encontro do

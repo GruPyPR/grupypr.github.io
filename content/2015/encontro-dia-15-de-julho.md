@@ -1,7 +1,6 @@
 Title: Encontro dia 15 de Julho
 SubTitle: Um rápido postmortem do que aconteceu
 Category: Encontros
-Cover: https://placeimg.com/1920/800/nature
 Slug: encontro-dia-15-de-julho
 Date: 2015-07-15
 Tags: python, encontros

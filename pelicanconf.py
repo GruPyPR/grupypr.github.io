@@ -26,8 +26,8 @@ LINKS = (
         ('GruPy-PR no MeetUp', 'http://www.meetup.com/pt/GruPy-PR/'),
         ('GruPy-PR no Google Groups',
          'https://groups.google.com/forum/#!forum/grupy-pr'),
+        ('Grupy-PR no Github', 'https://github.com/grupypr'),
         ('PythonBrasil', 'http://www.pythonbrasil.com.br/'),
-        ('Github', 'https://github.com/grupypr'),
 )
 
 DEFAULT_PAGINATION = 10
@@ -48,34 +48,47 @@ DEFAULT_DATE_FORMAT = ('%d de %B de %Y')
 # THEME CONFIGS
 THEME = 'themes/medius'
 DEFAULT_COVER = 'https://placeimg.com/1920/800/nature'
+DEFAULT_PROFILE_IMG = '/images/thumbnail/profile.png'
+DEFAULT_CATEGORY_THUMB = '/images/thumbnail/grupypr-thumb.png'
+DISPLAY_CATEGORIES_ON_MENU = False
 
-# Para criar um novo autor, altere esse dicionario com as informações do
-# novo autor
-# image - full path da imagem do autor. Tamanho recomendado 200x200
-# cover - imagem de fundo da página do autor. Tamanho recomendado 1920x800
-# links - uma lista de tuplas com ("nome do icone", "link")
+"""
+Para criar um novo autor, altere esse dicionario com as informações do
+novo autor:
+    'Nome do Autor': {
+        'image': 'full path da imagem do autor. Tamanho recomendado 200x200 (opcional)',
+        'cover': 'imagem de fundo da página do autor. Tamanho recomendado 1920x800 (opcional)',
+        'links': (uma lista de tuplas com ("nome do icone", "link")),
+    }
+"""
 MEDIUS_AUTHORS = {
     'Álvaro Justen': {
         'image': 'https://avatars3.githubusercontent.com/u/186126?v=3&s=150',
-        'cover': DEFAULT_COVER,
         'links': (
             ('github-square', 'https://github.com/turicas'),
             ('twitter-square', 'https://twitter.com/turicas'),
         )
     },
     'William Souza': {
-        'image': 'https://avatars3.githubusercontent.com/u/215986?v=3&s=150',
-        'cover': DEFAULT_COVER,
+        #'image': 'https://avatars3.githubusercontent.com/u/215986?v=3&s=150',
         'links': (
             ('github-square', 'https://github.com/wiliamsouza'),
         )
     }
 }
 
-# Configurações para página de categorias
+"""
+Configurações para página de categorias
+formato:
+'nome categoria': {
+  'description': 'uma descrição',
+  'thumbnail': 'path para imagem thumb. Tamanho 100x100', (opcional)
+}
+"""
 MEDIUS_CATEGORIES = {
     'Encontros': {
         'description': 'Post-mortem dos nossos encontros',
-        'thumbnail': '/images/thumbnail/grupypr-thumb.png',
     }
 }
+
+PLUGINS = ['readtime',]
