@@ -70,7 +70,7 @@ MEDIUS_AUTHORS = {
         )
     },
     'William Souza': {
-        #'image': 'https://avatars3.githubusercontent.com/u/215986?v=3&s=150',
+        'image': 'https://avatars3.githubusercontent.com/u/215986?v=3&s=150',
         'links': (
             ('github-square', 'https://github.com/wiliamsouza'),
         )
