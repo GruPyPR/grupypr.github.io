@@ -5,8 +5,15 @@ PELICANOPTS=
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
+PAGESDIR=$(INPUTDIR)/pages
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
+
+
+DATE := $(shell date +'%Y-%m-%d %H:%M:%S')
+SLUG := $(shell echo '${NAME}' | sed -e 's/[^[:alnum:]]/-/g' | tr -s '-' | tr A-Z a-z)
+EXT ?= md
+EDITOR ?= vim
 
 GITHUB_PAGES_BRANCH=master
 
@@ -66,16 +73,32 @@ ifdef NAME
 	echo "Title: $(NAME)" >  $(INPUTDIR)/$(SLUG).$(EXT)
 	echo "SubTitle: " >>  $(INPUTDIR)/$(SLUG).$(EXT)
 	echo "Category: " >>  $(INPUTDIR)/$(SLUG).$(EXT)
-	echo "Cover: http://lorempixel.com/1920/800/nature/" >>  $(INPUTDIR)/$(SLUG).$(EXT)
+    echo "Cover: https://placeimg.com/1920/800/nature" >>  $(INPUTDIR)/$(SLUG).$(EXT)
 	echo "Slug: $(SLUG)" >> $(INPUTDIR)/$(SLUG).$(EXT)
 	echo "Date: $(DATE)" >> $(INPUTDIR)/$(SLUG).$(EXT)
 	echo "Tags: " >> $(INPUTDIR)/$(SLUG).$(EXT)
+	echo "---"              >> $(INPUTDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(INPUTDIR)/$(SLUG).$(EXT)
 	echo ""              >> $(INPUTDIR)/$(SLUG).$(EXT)
 	${EDITOR} ${INPUTDIR}/${SLUG}.${EXT}
 else
 	@echo 'Variable NAME is not defined.'
-	@echo 'Do make newpost NAME='"'"'Post Name'"'"
+	@echo 'Do make newpost NAME="Post Name"'
+endif
+
+newpage:
+ifdef NAME
+	echo "Title: $(NAME)" >  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo "SubTitle: " >>  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo "Slug: $(SLUG)" >> $(PAGESDIR)/$(SLUG).$(EXT)
+    echo "Cover: https://placeimg.com/1920/800/nature" >>  $(PAGESDIR)/$(SLUG).$(EXT)
+	echo "---"           >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
+	echo ""              >> $(PAGESDIR)/$(SLUG).$(EXT)
+	${EDITOR} ${PAGESDIR}/${SLUG}.$(EXT)
+else
+	@echo 'Variable NAME is not defined.'
+	@echo 'Do make newpage NAME="Page Name"'
 endif
 
 .PHONY: up html help clean regenerate serve serve-global devserver stopserver publish github newpost

@@ -47,7 +47,7 @@ DEFAULT_DATE_FORMAT = ('%d de %B de %Y')
 
 # THEME CONFIGS
 THEME = 'themes/medius'
-DEFAULT_COVER = 'http://lorempixel.com/1920/800/abstract/'
+DEFAULT_COVER = 'https://placeimg.com/1920/800/nature'
 
 # Para criar um novo autor, altere esse dicionario com as informações do
 # novo autor
