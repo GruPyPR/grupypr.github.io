@@ -59,10 +59,17 @@ MEDIUS_AUTHORS = {
         'image': 'https://avatars3.githubusercontent.com/u/186126?v=3&s=150',
         'cover': DEFAULT_COVER,
         'links': (
-            ('github', 'https://github.com/turicas'),
+            ('github-square', 'https://github.com/turicas'),
             ('twitter-square', 'https://twitter.com/turicas'),
         )
     },
+    'William Souza': {
+        'image': 'https://avatars3.githubusercontent.com/u/215986?v=3&s=150',
+        'cover': DEFAULT_COVER,
+        'links': (
+            ('github-square', 'https://github.com/wiliamsouza'),
+        )
+    }
 }
 
 # Configurações para página de categorias
