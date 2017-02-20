@@ -30,7 +30,7 @@ No total tivemos 8 pythonistas no encontro:
 - [Lucas Kotres](https://github.com/lucaskotres)
 - [Marcelo Belli](https://github.com/marcelobelli)
 - [Ramiro Luz](https://github.com/ramiroluz)
-- Thiago Serafim
+- [Thiago Serafim](https://github.com/tserafim)
 
 
 ## Apresentações
@@ -122,9 +122,9 @@ daí apresente-se e participe dos próximos encontros.
 
 ## Próximo Encontro
 
-Nosso próximo encontro já está marcado: **3 de março de 2017 (sexta-feira) às
-19:30 no [Quintal do Monge (R. Dr. Claudino dos Santos,
-24)](https://goo.gl/maps/aFWj5nXEhzD2)**. Esse é nosso encontro social e não
+Nosso próximo encontro já está marcado: **[3 de março de 2017 (sexta-feira) às
+19:30 no Quintal do Monge (R. Dr. Claudino dos Santos,
+24)](https://www.meetup.com/GruPy-PR/events/237704102/)**. Esse é nosso encontro social e não
 teremos apresentação de palestras.
 
 Até lá! =)
