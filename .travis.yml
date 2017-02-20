@@ -3,8 +3,11 @@ branches:
   only:
     - src
 language: python
+python:
+  - "3.6"
 before_install:
-  - openssl aes-256-cbc -K $encrypted_cac45b7ee8fa_key -iv $encrypted_cac45b7ee8fa_iv -in travis-deploy.enc -out travis-deploy -d
+  - locale -a
+  - openssl aes-256-cbc -K $encrypted_cac45b7ee8fa_key -iv $encrypted_cac45b7ee8fa_iv -in travis-deploy.enc -out ~/.ssh/travis-deploy -d
   - chmod u=rw,og= ~/.ssh/travis-deploy
   - echo "Host github.com" >> ~/.ssh/config
   - echo "  IdentityFile ~/.ssh/travis-deploy" >> ~/.ssh/config
@@ -15,5 +18,3 @@ install:
   - pip install -r requirements.txt
 script:
   - make github
-
-
