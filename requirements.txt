@@ -3,3 +3,4 @@ typogrify==2.0.7
 Markdown==2.6.8
 ghp-import==0.5.4
 pelican-readtime==0.1.2
+-e git+git@github.com:ellisonleao/tapioca-meetup.git@5dedddfcc1c5a43cd2e17f0840ee22cfdc78d250#egg=tapioca_meetup_v3

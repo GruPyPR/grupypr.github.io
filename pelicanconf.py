@@ -44,7 +44,6 @@ ARTICLE_URL = '{date:%Y}/{slug}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 DEFAULT_DATE_FORMAT = ('%d de %B de %Y')
 
-
 # THEME CONFIGS
 THEME = 'themes/medius'
 DEFAULT_COVER = 'https://placeimg.com/1920/800/nature'
@@ -91,4 +90,7 @@ MEDIUS_CATEGORIES = {
     }
 }
 
-PLUGINS = ['readtime',]
+PLUGINS = ['readtime', 'plugins.meetup']
+
+MEETUP_API_KEY = '3150302e2be87c4cf19651b7f26'
+MEETUP_GROUP_URLNAME = 'grupy-pr'

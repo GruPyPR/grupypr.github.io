@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %} Eventos {% endblock %}
+
+{% block content %}
+
+    <h1>Eventos</h1>
+    {% if events_list %}
+    <ul class="post-list">
+    {% for event in events_list %}
+      <li>
+        <p> <b>{{ event.name }}</b></p>
+        <p> {{ event.time.strftime('%d de %m de %Y às %H:%M')}}</p>
+
+        {% if event.venue %}
+        <p>Location: {{event.venue}}</p>
+        {% endif %}
+
+        <p>{{ event.description }}</p>
+      </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+{% endblock %}
