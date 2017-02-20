@@ -1,0 +1,19 @@
+sudo: false
+branches:
+  only:
+    - src
+language: python
+before_install:
+  - openssl aes-256-cbc -K $encrypted_cac45b7ee8fa_key -iv $encrypted_cac45b7ee8fa_iv -in travis-deploy.enc -out travis-deploy -d
+  - chmod u=rw,og= ~/.ssh/travis-deploy
+  - echo "Host github.com" >> ~/.ssh/config
+  - echo "  IdentityFile ~/.ssh/travis-deploy" >> ~/.ssh/config
+  - git remote set-url origin git@github.com:grupypr/grupypr.github.io.git
+  - git fetch origin -f master:master
+install:
+  - pip install -U pip
+  - pip install -r requirements.txt
+script:
+  - make github
+
+
