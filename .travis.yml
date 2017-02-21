@@ -1,20 +1,18 @@
-sudo: false
 branches:
   only:
-    - src
+  - src
 language: python
-python:
-  - "3.6"
 before_install:
-  - locale -a
-  - openssl aes-256-cbc -K $encrypted_cac45b7ee8fa_key -iv $encrypted_cac45b7ee8fa_iv -in travis-deploy.enc -out ~/.ssh/travis-deploy -d
-  - chmod u=rw,og= ~/.ssh/travis-deploy
-  - echo "Host github.com" >> ~/.ssh/config
-  - echo "  IdentityFile ~/.ssh/travis-deploy" >> ~/.ssh/config
-  - git remote set-url origin git@github.com:grupypr/grupypr.github.io.git
-  - git fetch origin -f master:master
+# installing pt language pack
+- sudo apt-get update && sudo apt-get --reinstall install -qq language-pack-pt
 install:
-  - pip install -U pip
-  - pip install -r requirements.txt
+- pip install -r requirements.txt
 script:
-  - make github
+- make travis
+notifications:
+  email:
+    on_success: always
+    on_failure: always
+env:
+  global:
+    secure: fbOyC5gc8CE8kDCXibaKVvaceJHzzUe14OMaNdcuzWvA9DoZCSmaakPf6UKFoCPCl0H03XoFv6fciBOa+gRQm0Q8z5aTmo/rnyGBWSuru/W/lHwwkGRiY5uGDDGepF6g0oCnUmjNshzPcSijPUjp30WGol8596vv2mkR0XkvEpx8uE6G81jq2JjxpNJHsn1pBMFl0+EPL70nH2pAYXpJ2XFMoWzeFdmbt4zJEWwBjsoQZ8ysuHZm6BpC7g5G8Tf8+RR9FV6LBOGEAzPiovz/DLCMJ7Y0sCXqq1JmNUxtz/00ZLkLmJSTF/9YYLgtMtJcBiG8AlSZ/8j6lqNVuwCaA74Fhdw5q6k9m0E7/DBBDw252QikVh/zHDWjvHmi4wc/NY4LE4mvFooIVYsvmMBAQGN3OHw+NDbGEtSGanHp44E/bRHhYyC4WTsnlpUcLwUZPdhQvHIm+2hKiWbhBcYlz0p+jm9zdq9JK1ZRryyg74WB31ZSXGngA0UacEmsVxZ+HGzQ65R9yUCD7vt/0rpX6JAlrQqp2b24BirJBDUZYErT4cKZDNjI20/YuwD49zuGGSehkMQQAqZbuQay5s+rZpkiU80ZaEHLtuOR7o6AQQIZG/cG0CEoTxlZNSAqtvBZsOws/RVZvUke0W+eJsJwAI2/WWbY1DijTzOmx3E2oXM=

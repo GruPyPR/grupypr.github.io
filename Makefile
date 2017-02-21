@@ -98,4 +98,8 @@ else
 	echo 'Do make newpage NAME="Page Name"'
 endif
 
-.PHONY: up html help clean regenerate serve publish github newpost newpage
+travis: publish
+	ghp-import  -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+	@git push -fq https://${GH_TOKEN}@github.com/grupypr/grupypr.github.io.git master > /dev/null
+
+.PHONY: up html help clean regenerate serve publish github newpost newpage travis
