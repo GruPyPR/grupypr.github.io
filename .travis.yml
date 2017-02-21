@@ -5,8 +5,8 @@ branches:
   only:
   - src
 before_install:
-  #installing pt lang pack
 - sudo apt-get update && sudo apt-get --reinstall install -qq language-pack-pt
+- locale -a
 script:
 - make travis
 notifications:
