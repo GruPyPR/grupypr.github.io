@@ -1,14 +1,12 @@
 language: python
 python:
-  - "3.6"
+- '3.6'
 branches:
   only:
   - src
 before_install:
-# installing pt language pack
+  #installing pt lang pack
 - sudo apt-get update && sudo apt-get --reinstall install -qq language-pack-pt
-install:
-- pip install -r requirements.txt
 script:
 - make travis
 notifications:
@@ -17,4 +15,4 @@ notifications:
     on_failure: always
 env:
   global:
-    secure: fbOyC5gc8CE8kDCXibaKVvaceJHzzUe14OMaNdcuzWvA9DoZCSmaakPf6UKFoCPCl0H03XoFv6fciBOa+gRQm0Q8z5aTmo/rnyGBWSuru/W/lHwwkGRiY5uGDDGepF6g0oCnUmjNshzPcSijPUjp30WGol8596vv2mkR0XkvEpx8uE6G81jq2JjxpNJHsn1pBMFl0+EPL70nH2pAYXpJ2XFMoWzeFdmbt4zJEWwBjsoQZ8ysuHZm6BpC7g5G8Tf8+RR9FV6LBOGEAzPiovz/DLCMJ7Y0sCXqq1JmNUxtz/00ZLkLmJSTF/9YYLgtMtJcBiG8AlSZ/8j6lqNVuwCaA74Fhdw5q6k9m0E7/DBBDw252QikVh/zHDWjvHmi4wc/NY4LE4mvFooIVYsvmMBAQGN3OHw+NDbGEtSGanHp44E/bRHhYyC4WTsnlpUcLwUZPdhQvHIm+2hKiWbhBcYlz0p+jm9zdq9JK1ZRryyg74WB31ZSXGngA0UacEmsVxZ+HGzQ65R9yUCD7vt/0rpX6JAlrQqp2b24BirJBDUZYErT4cKZDNjI20/YuwD49zuGGSehkMQQAqZbuQay5s+rZpkiU80ZaEHLtuOR7o6AQQIZG/cG0CEoTxlZNSAqtvBZsOws/RVZvUke0W+eJsJwAI2/WWbY1DijTzOmx3E2oXM=
+  - secure: tZrDMxiOkqpEgWIBNLM0uqOn99TD1ScMcTyfOUgJaAoPkTwj+9TiCp5BlB0FcK2TQCYo63mnj/EsnODQkRVwmwSGdtdwajNC88aAKLsNq1UcU5funJTyVRhWkaGM2Y+/LDRHIgI0AO7IhP2oUqGI9oMTQSeSyvRv/jo7nDBiqT/KkOcTxekXonIcGEt/gDOTLTZyPyH7BPnBriOwqjCVcGqSOKijU1sE/zjG/VOkz1MbMCXFiEbHLrQXkkBOUJLrrddR81PrUiO9Q0r/1xhYx2fxvdo3aSlhED3mXanYKCnakv+ONRZfDBgKauy9bSUgncNdNl3KD0zRmrFSzF/6OBQmATq3nUfmVJUEHHMkmLuE7oSR/cceCdxmfzxIIPB150QlaSYhaKdafT27qQlOOjPlIsX82jORdjiXddmZC0PjhdJM2ZKl85YQIea0TyyDIWyafWvrcskfdWqGEJYa4yUdmhEeMNrSDD3MNK1KysYg/0bT3/+vKlGLPeRRiizDUxS+DiH96ICgOCwplHrvIpneHe7IxM7Avizjkp9LAoeexEVqh91JkDDnXWGzwq6Vfpj6kPrZffsVby1hdqmjVCLBuECDNUgPXKnOMVjrvuUzsV705xCn03OmeFBO89qAnnfP1b3rIu8Oh6jpBQ0IP66oHjL22a82UiUUyLsOlro=
