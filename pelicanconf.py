@@ -10,7 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'America/Sao_Paulo'
 
-LOCALE = 'pt_BR'
+LOCALE = 'pt_BR.UTF-8'
 DEFAULT_LANG = 'pt'
 
 # Feed generation is usually not desired when developing
