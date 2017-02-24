@@ -56,7 +56,7 @@ git commit -m "Mensagem bem explicadinha sobre o commit"
 ```
 5. Salve as alterações no repositório remoto.
 ```
-git push
+git push NOMEDABRANCH
 ```
 
 
