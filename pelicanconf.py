@@ -68,6 +68,12 @@ MEDIUS_AUTHORS = {
             ('twitter-square', 'https://twitter.com/turicas'),
         )
     },
+    'Thiago Serafim': {
+        'links': (
+            ('github-square', 'https://github.com/tserafim'),
+            ('twitter-square', 'https://twitter.com/thiagoserafim'),
+        )
+    },
     'William Souza': {
         'image': 'https://avatars3.githubusercontent.com/u/215986?v=3&s=150',
         'links': (
