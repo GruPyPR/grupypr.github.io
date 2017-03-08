@@ -29,20 +29,20 @@ ao Quintal do Monge, que tinha algumas cervejas de [ótimas](www.bodebrown.com.b
 9 pessoas compareceram ao encontro, inclusive alguns que nem moram no Paraná:
 
 - [Álvaro Justen](https://github.com/turicas)
-- Diego Antunes
+- [Diego Antunes](https://github.com/devlware)
 - [Diego Guimarães](https://github.com/diegodukao)
 - [Ellison Leão](https://github.com/ellisonleao)
 - [Gerardo Soares](https://github.com/gerardon)
-- Lorde Kumamon
+- [Vinícius Oliveira](https://vinipsmaker.github.io/)
 - [Ramiro Luz](https://github.com/ramiroluz)
 - [Thiago Serafim](https://github.com/tserafim)
-- William Tumeo
+- [William Tumeo](https://github.com/williamd1k0)
 
 
 É muito bom ver gente nova na comunidade. Esperamos que mais novatos apareçam
 no próximo evento.
 
-Destaque especial para o Lorde Kumamon que chegou em Curitiba às 21:00, foi 
+Destaque especial para o Vinícius que chegou em Curitiba às 21:00, foi 
 direto pro bar e depois voltou para o aeroporto pra seguir viagem. Quanta raça! 
 
 
@@ -53,7 +53,7 @@ data center(!!!)...a variedade de assuntos e conhecimento compartilhado nesses
 encontros é muito rica, e sempre aprendo muita coisa nova.
 
 O William contou sobre sua experiência com desenvolvimento de jogos, assunto 
-que interessou muito ao Elisson, que mantém um repositório sobre o assunto no 
+que interessou muito ao Ellisson, que mantém um repositório sobre o assunto no 
 github ([ellisonleao/magictools](https://github.com/ellisonleao/magictools)).
 
 Também falamos sobre o [RoboLaura](http://www.lauranetworks.com/conheca-o-robo-laura/), 
@@ -64,8 +64,9 @@ que usa machine learning e Python para gerenciamento de riscos hospitalares.
 
 Nos nossos eventos sempre acabamos discutindo outra linguagem de programação.
 No [evento passado](https://grupypr.github.io/2017/primeiro-encontro-do-ano.html) 
-falamos sobre Go. Desta vez, a escolhida foi o Rust. O Lorde Kumamon até 
-pouco tempo trabalhou com essa linguagem e compartilhou sua experiência.
+falamos sobre [Go](https://golang.org/). Desta vez, a escolhida foi o 
+[Rust](https://www.rust-lang.org). 
+O Vinícius até pouco tempo trabalhou com essa linguagem e compartilhou sua experiência.
 
 [![Galera no segundo encontro de 
 2017](/images/thumbnail/2017-03-03-encontro02.jpg)](/images/2017-03-03-encontro02.jpg)

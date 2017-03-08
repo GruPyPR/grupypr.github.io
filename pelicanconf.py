@@ -69,6 +69,7 @@ MEDIUS_AUTHORS = {
         )
     },
     'Thiago Serafim': {
+        'image': 'https://avatars3.githubusercontent.com/u/7226969?v=3&s=460',
         'links': (
             ('github-square', 'https://github.com/tserafim'),
             ('twitter-square', 'https://twitter.com/thiagoserafim'),
