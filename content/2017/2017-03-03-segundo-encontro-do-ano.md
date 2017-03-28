@@ -52,8 +52,8 @@ Python, sistemas embarcados, jogos, sensores de umidade para monitoramento de
 data center(!!!)...a variedade de assuntos e conhecimento compartilhado nesses
 encontros é muito rica, e sempre aprendo muita coisa nova.
 
-O William contou sobre sua experiência com desenvolvimento de jogos, assunto 
-que interessou muito ao Ellisson, que mantém um repositório sobre o assunto no 
+O William contou sobre sua experiência com desenvolvimento de jogos, assunto
+que interessou muito ao Ellison, que mantém um repositório sobre o assunto no
 github ([ellisonleao/magictools](https://github.com/ellisonleao/magictools)).
 
 Também falamos sobre o [RoboLaura](http://www.lauranetworks.com/conheca-o-robo-laura/), 
@@ -80,6 +80,8 @@ principal ferramenta de comunicação do GruPy-PR.
 
 ## Próximo encontro
 
-Já começamos a discutir sobre o próximo evento mas ainda não há data definida.
-Em breve mais informações!
+Nosso próximo encontro será realizado durante o [FLISOL 2017](http://curitiba.flisol.org.br),
+no dia 08 de abril de 2017, e teremos várias apresentações de palestras. Veja
+a programação e confirme sua presença no
+[nosso evento no Meetup](https://www.meetup.com/GruPy-PR/events/238698415/).
 
