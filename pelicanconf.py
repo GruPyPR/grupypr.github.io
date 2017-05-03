@@ -80,7 +80,15 @@ MEDIUS_AUTHORS = {
         'links': (
             ('github-square', 'https://github.com/wiliamsouza'),
         )
+    },
+    'Ellison Leão': {
+        'image': 'https://avatars3.githubusercontent.com/u/178641?v=3&s=150',
+        'links': (
+            ('github-square', 'https://github.com/ellisonleao'),
+            ('twitter-square', 'https://twitter.com/ellisonleao'),
+        )
     }
+
 }
 
 """
