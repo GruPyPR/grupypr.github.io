@@ -1,5 +1,22 @@
 # Como contribuir
 
+Caso você não tenha conhecimentos sobre [git](https://git-scm.com/),
+[virtualenv](https://virtualenv.pypa.io/),
+[pelican](http://docs.getpelican.com/), [markdown](http://commonmark.org/) e
+outras ferramentas que utilizamos no site, você ainda assim poderá contribuir
+com publicações em nosso blog da seguinte forma:
+
+- Crie uma conta no [GitHub](https://github.com/)
+- [Crie uma issue no repositório do
+  projeto](https://github.com/GruPyPR/grupypr.github.io/issues/new) contendo em
+  sua descrição o texto da nova publicação e quaisquer outros arquivos em anexo
+  (como fotos).
+- Espere que algum membro do projeto revise sua publicação e a inclua no
+  projeto.
+
+Caso você já conheça essas ferramentas (ou queira aprender a usá-las), continue
+lendo.
+
 
 ## Baixando e instalando o projeto
 
