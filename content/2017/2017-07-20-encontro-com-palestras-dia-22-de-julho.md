@@ -13,6 +13,9 @@ um encontro com palestras sobre [Python](http://www.python.org/)
 de [palestras relâmpago](https://www.youtube.com/watch?v=Q3Kgd1IirgM) (onde
 qualquer um pode compartilhar conhecimento por 5 minutos).
 
+**Atualização: [veja vídeos, slides e fotos do
+encontro]({filename}2017-07-31-videos-slides-fotos-encontro-22-de-julho.md).**
+
 A grade é a seguinte:
 
 
