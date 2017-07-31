@@ -105,7 +105,7 @@ MEDIUS_CATEGORIES = {
     }
 }
 
-PLUGINS = ['readtime', 'plugins.meetup']
+PLUGINS = ['plugins.meetup']
 
 MEETUP_API_KEY = '3150302e2be87c4cf19651b7f26'
 MEETUP_GROUP_URLNAME = 'grupy-pr'
