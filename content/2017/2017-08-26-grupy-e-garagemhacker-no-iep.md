@@ -31,7 +31,7 @@ Rolaram duas apresentações:
 - **[Ramiro Batista da Luz](https://github.com/ramiroluz) falou sobre o grupo de 
   usuários Python do Paraná e sobre linguagem Python, onde encontrar documentação
   e informações para aprender a programar utilizando Python.
-- **[Igor SCA](https://github.com/isca0) e [Edgar dos Reis]() falaram sobre a 
+- **[Igor SCA](https://github.com/isca0) e [Edgar dos Reis](https://github.com/edgarreis) falaram sobre a 
   cultura hacker, sobre a Garagem Hacker e apresentaram um projeto de IOT feito
   na Garagem Hacker.
 
