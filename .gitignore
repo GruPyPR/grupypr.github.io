@@ -6,8 +6,10 @@
 .coverage
 .directory
 .env
+.grupyprblog
 .idea/*
 .tox
+.venv
 MANIFEST
 __pycache__
 build/*
