@@ -87,8 +87,14 @@ MEDIUS_AUTHORS = {
             ('github-square', 'https://github.com/ellisonleao'),
             ('twitter-square', 'https://twitter.com/ellisonleao'),
         )
-    }
-
+    },
+    'Ramiro Batista da Luz': {
+        'image': 'https://avatars3.githubusercontent.com/u/293174?v=4&s=150',
+        'links': (
+            ('github-square', 'https://github.com/ramiroluz'),
+            ('twitter-square', 'https://twitter.com/ramiroluz'),
+        )
+    },
 }
 
 """
