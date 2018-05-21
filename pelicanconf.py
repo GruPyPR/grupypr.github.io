@@ -22,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-        ('GruPy-PR no Telegram', 'https://t.me/grupy_pr'),
+        ('GruPy-PR no Telegram', 'https://t.me/python_pr'),
         ('GruPy-PR no MeetUp', 'http://www.meetup.com/pt/GruPy-PR/'),
         ('GruPy-PR no Google Groups',
          'https://groups.google.com/forum/#!forum/grupy-pr'),
