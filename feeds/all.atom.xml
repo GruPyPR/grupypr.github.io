@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>GruPy-PR</title><link href="http://grupypr.github.io/" rel="alternate"></link><link href="http://grupypr.github.io/feeds/all.atom.xml" rel="self"></link><id>http://grupypr.github.io/</id><updated>2017-08-26T09:00:00-03:00</updated><entry><title>Encontro no Instituto de Engenharia do Paraná dia 26 de agosto</title><link href="http://grupypr.github.io/2017/encontro-no-instituto-de-engenharia-do-parana-dia-26-de-agosto.html" rel="alternate"></link><published>2017-08-26T09:00:00-03:00</published><updated>2017-08-26T09:00:00-03:00</updated><author><name>Ramiro Batista da Luz</name></author><id>tag:grupypr.github.io,2017-08-26:/2017/encontro-no-instituto-de-engenharia-do-parana-dia-26-de-agosto.html</id><summary type="html">&lt;p&gt;No dia 26 de agosto de 2017 aconteceu o encontro de agosto do &lt;a href="https://grupypr.github.io/"&gt;GruPy-PR&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O encontro aconteceu em um dos auditórios do Instituto de Engenharia do Paraná com capacidade para 100 pessoas. 
+O espaço foi gentilmente cedido através do apoio da Câmara Técnica do IEP na pessoa do Diretor João …&lt;/p&gt;</summary><content type="html">&lt;p&gt;No dia 26 de agosto de 2017 aconteceu o encontro de agosto do &lt;a href="https://grupypr.github.io/"&gt;GruPy-PR&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O encontro aconteceu em um dos auditórios do Instituto de Engenharia do Paraná com capacidade para 100 pessoas. 
+O espaço foi gentilmente cedido através do apoio da Câmara Técnica do IEP na pessoa do Diretor João de Souza.
+Além do Grupy-PR contamos com a participação dos membros da &lt;a href="http://garagemhacker.org/"&gt;Garagem Hacker&lt;/a&gt;.
+Apresentamos o grupo, recursos para aprender Python e nossos amigos Igor e Edgar da Garagem Hacker apresentaram
+a Garagem, seu funcionamento e cultura Hacker bem como uma demostração de IOT.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Artigo no site do IEP:&lt;/em&gt; (http://iep.org.br/iep/aconteceu-reuniao-sobre-programacao-python/)&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/2017-08-26-encontro-agosto-grupy-gh-1.jpg"&gt;&lt;img alt="Encontro de agosto, foto 1" src="/images/thumbnail/2017-08-26-encontro-agosto-grupy-gh-1.jpg"&gt;&lt;/a&gt;
+&lt;a href="/images/2017-08-26-encontro-agosto-grupy-gh-2.jpg"&gt;&lt;img alt="Encontro de agosto, foto 2" src="/images/thumbnail/2017-08-26-encontro-agosto-grupy-gh-2.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Participantes&lt;/h2&gt;
+&lt;p&gt;Participaram do evento membros do Grupy-PR, da Garagem Hacker e membros do Instituto de Engenharia do Paraná.&lt;/p&gt;
+&lt;h2&gt;Apresentações&lt;/h2&gt;
+&lt;p&gt;Rolaram duas apresentações:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;**&lt;a href="https://github.com/ramiroluz"&gt;Ramiro Batista da Luz&lt;/a&gt; falou sobre o grupo de 
+  usuários Python do Paraná e sobre linguagem Python, onde encontrar documentação
+  e informações para aprender a programar utilizando Python.&lt;/li&gt;
+&lt;li&gt;**&lt;a href="https://github.com/isca0"&gt;Igor SCA&lt;/a&gt; e &lt;a href="https://github.com/edgarreis"&gt;Edgar dos Reis&lt;/a&gt; falaram sobre a 
+  cultura hacker, sobre a Garagem Hacker e apresentaram um projeto de IOT feito
+  na Garagem Hacker.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Além de Python...&lt;/h2&gt;
+&lt;p&gt;O encontro não é focado em falar somente de &lt;a href="http://python.org/"&gt;Python&lt;/a&gt;: a
+ideia é &lt;strong&gt;reunir a galera, criar laços e o que surgir de papo tá valendo&lt;/strong&gt;,
+desde que todo mundo esteja se divertindo e compartilhando conhecimento.&lt;/p&gt;
+&lt;h2&gt;Participe!&lt;/h2&gt;
+&lt;p&gt;Se você mora no Paraná e quer ficar por dentro do que estamos fazendo por aqui,
+entre no &lt;a href="https://t.me/grupy_pr"&gt;nosso grupo do Telegram&lt;/a&gt; e na
+&lt;a href="https://groups.google.com/forum/#!forum/grupy-pr"&gt;nossa lista de discussão&lt;/a&gt;,
+daí apresente-se e participe dos próximos encontros.&lt;/p&gt;
+&lt;h2&gt;Próximo Encontro&lt;/h2&gt;
+&lt;p&gt;Estão marcados dois encontros. Amanhã, &lt;a href="https://www.meetup.com/pt-BR/GruPy-PR/events/243263050/"&gt;dia 14 de setembro de 2017 está marcado um PyBar, encontro social no Mr. Hoppy na Rua Trajano Reis, 144, Curitiba-PR&lt;/a&gt;. O pessoal começa a chegar à partir das 19h. Esse é nosso encontro social e não teremos apresentação de palestras.&lt;/p&gt;
+&lt;p&gt;O Grupy-PR vai participar do &lt;a href="https://www.meetup.com/pt-BR/GruPy-PR/events/243290919/"&gt;Fórum de Tecnologia em Software Livre que acontece na UTFPR entre os dias 27 e 29 de Setembro de 2017&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Até lá! =)&lt;/p&gt;</content><category term="Python"></category><category term="Encontros"></category></entry><entry><title>Vídeos, slides e fotos do encontro de 22 de julho</title><link href="http://grupypr.github.io/2017/videos-slides-e-fotos-do-encontro-de-22-de-julho.html" rel="alternate"></link><published>2017-07-31T07:38:00-03:00</published><updated>2017-07-31T07:38:00-03:00</updated><author><name>Álvaro Justen</name></author><id>tag:grupypr.github.io,2017-07-31:/2017/videos-slides-e-fotos-do-encontro-de-22-de-julho.html</id><summary type="html">&lt;p&gt;No último dia 22 fizemos &lt;a href="http://grupypr.github.io/2017/encontro-com-palestras-dia-22-de-julho.html"&gt;um
+encontro&lt;/a&gt;,
+que contou com 3 palestras de 30 minutos, 3 de 5 minutos (palestras relâmpago)
+e bastante gente!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/OpenDevCommunity/photos/28027254/"&gt;&lt;img alt="Pythonistas curitibanos reunidos" src="https://secure.meetupstatic.com/photos/event/5/4/8/a/600_463041642.jpeg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/OpenDevCommunity/photos/28027254/"&gt;Veja todas as fotos do encontro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tivemos o apoio do &lt;a href="http://www.miccuritiba.com.br/"&gt;Microsoft Innovation Center
+Curitiba&lt;/a&gt; e do &lt;a href="http://centroeuropeu.com.br/"&gt;Centro
+Europeu&lt;/a&gt;, que nos cederam o espaço e o super …&lt;/p&gt;</summary><content type="html">&lt;p&gt;No último dia 22 fizemos &lt;a href="http://grupypr.github.io/2017/encontro-com-palestras-dia-22-de-julho.html"&gt;um
+encontro&lt;/a&gt;,
+que contou com 3 palestras de 30 minutos, 3 de 5 minutos (palestras relâmpago)
+e bastante gente!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/OpenDevCommunity/photos/28027254/"&gt;&lt;img alt="Pythonistas curitibanos reunidos" src="https://secure.meetupstatic.com/photos/event/5/4/8/a/600_463041642.jpeg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.meetup.com/OpenDevCommunity/photos/28027254/"&gt;Veja todas as fotos do encontro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tivemos o apoio do &lt;a href="http://www.miccuritiba.com.br/"&gt;Microsoft Innovation Center
+Curitiba&lt;/a&gt; e do &lt;a href="http://centroeuropeu.com.br/"&gt;Centro
+Europeu&lt;/a&gt;, que nos cederam o espaço e o super
+lanche. =) Os participantes &lt;a href="https://www.meetup.com/OpenDevCommunity/events/241873293/?read=1&amp;amp;_af=event&amp;amp;_af_eid=241873293"&gt;deram um ótimo
+&lt;em&gt;feedback&lt;/em&gt;&lt;/a&gt;
+sobre o encontro e pretendemos manter o formato para os próximos!&lt;/p&gt;
+&lt;p&gt;Além de fotos, &lt;a href="https://www.youtube.com/playlist?list=PL9UhW08tIwwhDYTeekYrBBjEQfSYOCgyX"&gt;gravamos vídeos das
+palestras&lt;/a&gt;,
+que você pode conferir a seguir, junto com os slides:&lt;/p&gt;
+&lt;h2&gt;Palestra "O Fantástico Mundo de Python", por Álvaro Justen&lt;/h2&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/UhojUKoXHMM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="http://turicas.info/slides/python/grupypr/"&gt;Acesse os slides&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Palestra "Uma Viagem Pelo Python na Web", por Eduardo Stalinho&lt;/h2&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/hb2ns15ecnU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Acesse &lt;a href="http://slides.com/eduardooliveiradecarvalho/deck-3/fullscreen#/"&gt;os
+slides&lt;/a&gt; e &lt;a href="https://github.com/eduardostalinho/uma-viagem-pelo-python-na-web"&gt;o
+código usado como
+demonstração&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Palestra "Aplicações Científicas com Python", por Lucas Kotres&lt;/h2&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/5LXZxahkrM0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://www.slideshare.net/lucaskotres/aplicaes-cientficas-com-python"&gt;Acesse os slides&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Pós-palestras&lt;/h2&gt;
+&lt;p&gt;Depois das palestras fomos almoçar juntos e rolou muito bate-papo sobre Python
+e um monte de coisas. :)
+Nos vemos no próximo!&lt;/p&gt;</content><category term="Python"></category><category term="Encontros"></category><category term="Slides"></category><category term="Vídeos"></category></entry><entry><title>Encontro com palestras dia 22 de julho</title><link href="http://grupypr.github.io/2017/encontro-com-palestras-dia-22-de-julho.html" rel="alternate"></link><published>2017-07-20T14:38:00-03:00</published><updated>2017-07-20T14:38:00-03:00</updated><author><name>Álvaro Justen</name></author><id>tag:grupypr.github.io,2017-07-20:/2017/encontro-com-palestras-dia-22-de-julho.html</id><summary type="html">&lt;p&gt;No próximo sábado (22 de julho), em parceria com o
+&lt;a href="https://www.meetup.com/OpenDevCommunity/"&gt;Open Developer Community&lt;/a&gt;, faremos
+um encontro com palestras sobre &lt;a href="http://www.python.org/"&gt;Python&lt;/a&gt;
+(principalmente para quem já programa mas não conhece a linguagem) e uma sessão
+de &lt;a href="https://www.youtube.com/watch?v=Q3Kgd1IirgM"&gt;palestras relâmpago&lt;/a&gt; (onde
+qualquer um pode compartilhar conhecimento por 5 minutos).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atualização: &lt;a href="http://grupypr.github.io/2017/videos-slides-e-fotos-do-encontro-de-22-de-julho.html"&gt;veja vídeos, slides e …&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;No próximo sábado (22 de julho), em parceria com o
+&lt;a href="https://www.meetup.com/OpenDevCommunity/"&gt;Open Developer Community&lt;/a&gt;, faremos
+um encontro com palestras sobre &lt;a href="http://www.python.org/"&gt;Python&lt;/a&gt;
+(principalmente para quem já programa mas não conhece a linguagem) e uma sessão
+de &lt;a href="https://www.youtube.com/watch?v=Q3Kgd1IirgM"&gt;palestras relâmpago&lt;/a&gt; (onde
+qualquer um pode compartilhar conhecimento por 5 minutos).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atualização: &lt;a href="http://grupypr.github.io/2017/videos-slides-e-fotos-do-encontro-de-22-de-julho.html"&gt;veja vídeos, slides e fotos do
+encontro&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A grade é a seguinte:&lt;/p&gt;
+&lt;h2&gt;Palestra 1: O Fantástico Mundo de Python&lt;/h2&gt;
+&lt;p&gt;Quem começa a aprender Python em geral sente amor à primeira vista. A linguagem
+empodera os programadores, fazendo com que tarefas às vezes complexas possam
+ser escritas com poucas - porém super legíveis - linhas de código. Nessa
+palestra será feita uma apresentação técnica e não técnica da linguagem: das
+estruturas de dados às comunidades de desenvolvedores.&lt;/p&gt;
+&lt;p&gt;Palestrante: &lt;a href="https://t.me/turicas"&gt;Álvaro Justen aka Turicas&lt;/a&gt;. Vegetariano,
+pró-feminismo, desenvolvedor de software, professor, hipnotista e um monte de
+outras coisas. É dependente químico de cafés especiais, curte muito aprender
+sobre a vida, o universo e tudo mais e acredita que o mundo seria um pouquinho
+melhor se todo mundo compartilhasse mais conhecimento e outros recursos; se
+diverte brincando com dados, viajando e hipnotizando as pessoas por aí.&lt;/p&gt;
+&lt;h2&gt;Palestra 2: Uma Viagem Pela Web Com Python&lt;/h2&gt;
+&lt;p&gt;Essa palestra tem o intuito de apresentar o desenvolvimento Python para Web
+mostrando desde o uso das bibliotecas padrão da linguagem até frameworks Web
+robustos. Também será apresentado o estado atual da Web e quais as soluções que
+o Python oferece para esses novos desafios.&lt;/p&gt;
+&lt;p&gt;Palestrante: &lt;a href="https://t.me/stalinho"&gt;Eduardo Oliveira de Carvalho, aka
+Stalinho&lt;/a&gt;. Programador andarilho. Membro importado da
+&lt;a href="http://pythonrio.python.org.br/"&gt;PythonRio&lt;/a&gt; para o
+&lt;a href="https://grupypr.github.io/"&gt;Grupy-PR&lt;/a&gt;.  Desenvolvedor Python há 8 anos, tem
+experiência com Web desenvolvendo desde aplicações corporativas a obras de
+arte.&lt;/p&gt;
+&lt;h2&gt;Palestra 3: Aplicações Científicas Usando Python&lt;/h2&gt;
+&lt;p&gt;Por que Python se tornou uma das linguagens mais adequadas para a pesquisa e
+avanços científicos? Durante a palestra serão explorados os desafios que a
+comunidade científica possui em relação a computação, uso da computação em
+pesquisa e em aplicações inovadoras na indústria e entender como o ecossistema
+Python funciona, conhecer suas principais bibliotecas e alguns casos reais
+próximos de nós.&lt;/p&gt;
+&lt;p&gt;Palestrante: &lt;a href="https://t.me/lucaskotres"&gt;Lucas Kostres&lt;/a&gt;. Começou a programar em
+2004. Já usou C++ para controle de estoque, Cobol para aplicações bancárias e
+nos últimos 6 anos é analista na &lt;a href="https://www.elipse.com.br"&gt;Elipse Software&lt;/a&gt; e
+ajuda clientes a construir sistemas de controle industrial e analisar seus
+dados usando Python. Membro da comunidade &lt;a href="https://grupypr.github.io/"&gt;Python do Paraná -
+Grupy-PR&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Palestras Relâmpago&lt;/h2&gt;
+&lt;p&gt;Espaços de 5 minutos em que &lt;strong&gt;qualquer participante&lt;/strong&gt; poderá utilizar para
+compartilhar algum conhecimento (divulgar algum projeto de software, alguma
+biblitoeca, contar piadas etc.). É uma ótima oportunidade para começar a falar
+em público ou para divulgar um projeto pessoal. Aprenda mais sobre as
+&lt;a href="https://www.youtube.com/watch?v=Q3Kgd1IirgM"&gt;palestras relâmpago&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Inscrição (GRATUITA), Horário e Local&lt;/h2&gt;
+&lt;p&gt;O encontro acontecerá em &lt;a href="https://goo.gl/maps/Z2H5tpWH56x"&gt;Hotel Centro Europeu Tourist (Praça Galeria Osório,
+61 - Centro, Curitiba/PR)&lt;/a&gt;, de 09h30min às 12h
+- e depois vamos sair pra almoçar juntos ali na região. :)&lt;/p&gt;
+&lt;p&gt;Para se inscrever basta entrar no &lt;a href="https://www.meetup.com/OpenDevCommunity/"&gt;grupo Open Developer Community no
+Meetup.com&lt;/a&gt; e
+&lt;a href="https://www.meetup.com/OpenDevCommunity/events/241873293/"&gt;se inscrever no
+evento&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O que está esperando para se inscrever? &lt;strong&gt;Nos vemos lá!&lt;/strong&gt; ;-)&lt;/p&gt;</content><category term="Python"></category><category term="Encontros"></category></entry><entry><title>Almoço de maio</title><link href="http://grupypr.github.io/2017/almoco-de-maio.html" rel="alternate"></link><published>2017-05-12T14:38:00-03:00</published><updated>2017-05-12T14:38:00-03:00</updated><author><name>Álvaro Justen</name></author><id>tag:grupypr.github.io,2017-05-12:/2017/almoco-de-maio.html</id><summary type="html">&lt;p&gt;Na última sexta-feira nos reunimos para um almoço. A ideia surgiu porque boa
+parte do pessoal não poderia se encontrar para uma cerveja e não gostaríamos de
+deixar de fazer um encontro.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/2017-05-12-almoco-maio.jpg"&gt;&lt;img alt="Foto almoço
+GruPy-PR" src="/images/thumbnail/2017-05-12-almoco-maio.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nem todo mundo tem disponibilidade para uma cerveja à noite ou um encontro com
+palestras nos sábados, mas …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Na última sexta-feira nos reunimos para um almoço. A ideia surgiu porque boa
+parte do pessoal não poderia se encontrar para uma cerveja e não gostaríamos de
+deixar de fazer um encontro.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/2017-05-12-almoco-maio.jpg"&gt;&lt;img alt="Foto almoço
+GruPy-PR" src="/images/thumbnail/2017-05-12-almoco-maio.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nem todo mundo tem disponibilidade para uma cerveja à noite ou um encontro com
+palestras nos sábados, mas para almoçar não tem desculpa: todo mundo &lt;em&gt;já tem&lt;/em&gt;
+que almoçar, daí a gente almoça junto. :) E é super simples de organizar: é só
+marcar o dia e o restaurante.&lt;/p&gt;
+&lt;p&gt;Em 2010, quando eu ainda morava em Niterói, &lt;a href="http://blog.justen.eng.br/2010/09/almoco-pythonrio-toda-terca-no-daytrade.html"&gt;marquei um almoço com uns amigos
+pythonistas no
+Rio&lt;/a&gt;
+e a partir de então tivemos almoço PythonRio toda semana! É um encontro não
+técnico e super importante para manter os laços entre as pessoas do grupo.&lt;/p&gt;
+&lt;p&gt;Ainda não marcamos o próximo, mas &lt;a href="https://t.me/grupy_pr"&gt;fique de olho em nosso grupo no
+Telegram&lt;/a&gt; que combinaremos tudo por lá. Até mais!&lt;/p&gt;</content><category term="Python"></category><category term="Encontros"></category></entry><entry><title>Encontro do GrupyPR durante o FLISOL</title><link href="http://grupypr.github.io/2017/encontro-do-grupypr-durante-o-flisol.html" rel="alternate"></link><published>2017-04-08T00:00:00-03:00</published><updated>2017-04-08T00:00:00-03:00</updated><author><name>Ellison Leão</name></author><id>tag:grupypr.github.io,2017-04-08:/2017/encontro-do-grupypr-durante-o-flisol.html</id><summary type="html">&lt;p&gt;&lt;a href="/images/flisol-2017.png"&gt;&lt;img alt="Flisol 2017" src="/images/flisol-2017.png"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;No dia 08 de Março aconteceu em Curitiba o &lt;a href="http://curitiba.flisol.org.br"&gt;FLISOL 2017&lt;/a&gt;, um dos maiores eventos de software livre do mundo, no prédio do Setor de Educação Profissional e Tecnológica da Universidade Federal do Paraná (SEPT-UFPR) e o GrupyPR esteve por lá.&lt;/p&gt;
+&lt;h2&gt;Palestras&lt;/h2&gt;
+&lt;p&gt;Nesse evento tivemos 3 palestras:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/terceiro"&gt;Antônio Terceiro&lt;/a&gt; apresentou …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;a href="/images/flisol-2017.png"&gt;&lt;img alt="Flisol 2017" src="/images/flisol-2017.png"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;No dia 08 de Março aconteceu em Curitiba o &lt;a href="http://curitiba.flisol.org.br"&gt;FLISOL 2017&lt;/a&gt;, um dos maiores eventos de software livre do mundo, no prédio do Setor de Educação Profissional e Tecnológica da Universidade Federal do Paraná (SEPT-UFPR) e o GrupyPR esteve por lá.&lt;/p&gt;
+&lt;h2&gt;Palestras&lt;/h2&gt;
+&lt;p&gt;Nesse evento tivemos 3 palestras:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/terceiro"&gt;Antônio Terceiro&lt;/a&gt; apresentou a palestra &lt;strong&gt;Empacotamento e distribuição de aplicações web em python&lt;/strong&gt; onde mostrou como fez para facilitar a utilização de aplicações web. Usando o exemplo do projeto SQUAD de sua autoria, um painel (dashboard) de controle de qualidade de software.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/ramiroluz"&gt;Ramiro Luz&lt;/a&gt; fez uma demonstração de uma aplicação utilizando Arduíno, Zabbix e Telegram, usando Python.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/ellisonleao"&gt;Ellison Leão&lt;/a&gt; fez uma apresentação sobre trabalho remoto, mostrando sua experiência pessoal e dando algumas dicas pra quem deseja começar a trabalhar nesse formato.&lt;/p&gt;
+&lt;h2&gt;Algumas imagens&lt;/h2&gt;
+&lt;p&gt;&lt;a href="/images/flisol-2017-ramiro.jpg"&gt;&lt;img alt="Ramiro Luz" src="/images/flisol-2017-ramiro.jpg"&gt;&lt;/a&gt;
+&lt;a href="/images/flisol-2017-ellison.jpg"&gt;&lt;img alt="Ellison Leão" src="/images/flisol-2017-ellison.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Participe!&lt;/h2&gt;
+&lt;p&gt;Entre para o &lt;a href="https://t.me/grupy_pr"&gt;nosso grupo do Telegram&lt;/a&gt;. Essa é a
+principal ferramenta de comunicação do GruPy-PR.&lt;/p&gt;
+&lt;h2&gt;Próximo encontro&lt;/h2&gt;
+&lt;p&gt;Nosso próximo encontro será realizado durante o PythOnCampus na OPET, dia 02 de Maio onde teremos várias apresentações de palestras.&lt;/p&gt;</content><category term="Python"></category><category term="Encontros"></category></entry><entry><title>Segundo encontro do ano</title><link href="http://grupypr.github.io/2017/segundo-encontro-do-ano.html" rel="alternate"></link><published>2017-03-07T00:00:00-03:00</published><updated>2017-03-07T00:00:00-03:00</updated><author><name>Thiago Serafim</name></author><id>tag:grupypr.github.io,2017-03-07:/2017/segundo-encontro-do-ano.html</id><summary type="html">&lt;p&gt;Dando prosseguimento a nossa série de encontros, no dia 03 de março de 2017 
+rolou o segundo evento de 2017, o primeiro PyBar.&lt;/p&gt;
+&lt;p&gt;De acordo com o pessoal do
+&lt;a href="https://www.meetup.com/Belo-Horizonte-Python-User-Group/?chapter_analytics_code=UA-56859552-1"&gt;Belo Horizonte Python User Group&lt;/a&gt; 
+o PyBar é um "encontro realizado em algum bar, pub, ou café. O foco principal 
+é …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Dando prosseguimento a nossa série de encontros, no dia 03 de março de 2017 
+rolou o segundo evento de 2017, o primeiro PyBar.&lt;/p&gt;
+&lt;p&gt;De acordo com o pessoal do
+&lt;a href="https://www.meetup.com/Belo-Horizonte-Python-User-Group/?chapter_analytics_code=UA-56859552-1"&gt;Belo Horizonte Python User Group&lt;/a&gt; 
+o PyBar é um "encontro realizado em algum bar, pub, ou café. O foco principal 
+é estreitar a relação entre os membros da comunidade de maneira menos formal, 
+proporcionando que as pessoas façam novas amizades e compartilhem 
+experiências."&lt;/p&gt;
+&lt;p&gt;Mesmo com alguns ainda se recuperando da ressaca do carnaval, fomos 
+ao Quintal do Monge, que tinha algumas cervejas de &lt;a href="www.bodebrown.com.br"&gt;ótimas&lt;/a&gt; 
+&lt;a href="waybeer.com.br"&gt;microcervejarias&lt;/a&gt; paranaenses em seu cardápio.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/2017-03-03-encontro01.jpg"&gt;&lt;img alt="Galera no segundo encontro de 
+2017" src="/images/thumbnail/2017-03-03-encontro01.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Participantes&lt;/h2&gt;
+&lt;p&gt;9 pessoas compareceram ao encontro, inclusive alguns que nem moram no Paraná:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/turicas"&gt;Álvaro Justen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/devlware"&gt;Diego Antunes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/diegodukao"&gt;Diego Guimarães&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ellisonleao"&gt;Ellison Leão&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/gerardon"&gt;Gerardo Soares&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vinipsmaker.github.io/"&gt;Vinícius Oliveira&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ramiroluz"&gt;Ramiro Luz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tserafim"&gt;Thiago Serafim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/williamd1k0"&gt;William Tumeo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;É muito bom ver gente nova na comunidade. Esperamos que mais novatos apareçam
+no próximo evento.&lt;/p&gt;
+&lt;p&gt;Destaque especial para o Vinícius que chegou em Curitiba às 21:00, foi 
+direto pro bar e depois voltou para o aeroporto pra seguir viagem. Quanta raça! &lt;/p&gt;
+&lt;h2&gt;Bate-papo&lt;/h2&gt;
+&lt;p&gt;Python, sistemas embarcados, jogos, sensores de umidade para monitoramento de 
+data center(!!!)...a variedade de assuntos e conhecimento compartilhado nesses
+encontros é muito rica, e sempre aprendo muita coisa nova.&lt;/p&gt;
+&lt;p&gt;O William contou sobre sua experiência com desenvolvimento de jogos, assunto
+que interessou muito ao Ellison, que mantém um repositório sobre o assunto no
+github (&lt;a href="https://github.com/ellisonleao/magictools"&gt;ellisonleao/magictools&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Também falamos sobre o &lt;a href="http://www.lauranetworks.com/conheca-o-robo-laura/"&gt;RoboLaura&lt;/a&gt;, 
+que usa machine learning e Python para gerenciamento de riscos hospitalares.&lt;/p&gt;
+&lt;h2&gt;Outras linguagens&lt;/h2&gt;
+&lt;p&gt;Nos nossos eventos sempre acabamos discutindo outra linguagem de programação.
+No &lt;a href="https://grupypr.github.io/2017/primeiro-encontro-do-ano.html"&gt;evento passado&lt;/a&gt; 
+falamos sobre &lt;a href="https://golang.org/"&gt;Go&lt;/a&gt;. Desta vez, a escolhida foi o 
+&lt;a href="https://www.rust-lang.org"&gt;Rust&lt;/a&gt;. 
+O Vinícius até pouco tempo trabalhou com essa linguagem e compartilhou sua experiência.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/2017-03-03-encontro02.jpg"&gt;&lt;img alt="Galera no segundo encontro de 
+2017" src="/images/thumbnail/2017-03-03-encontro02.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Participe!&lt;/h2&gt;
+&lt;p&gt;Entre para o &lt;a href="https://t.me/grupy_pr"&gt;nosso grupo do Telegram&lt;/a&gt;. Essa é a 
+principal ferramenta de comunicação do GruPy-PR.&lt;/p&gt;
+&lt;h2&gt;Próximo encontro&lt;/h2&gt;
+&lt;p&gt;Nosso próximo encontro será realizado durante o &lt;a href="http://curitiba.flisol.org.br"&gt;FLISOL 2017&lt;/a&gt;,
+no dia 08 de abril de 2017, e teremos várias apresentações de palestras. Veja
+a programação e confirme sua presença no
+&lt;a href="https://www.meetup.com/GruPy-PR/events/238698415/"&gt;nosso evento no Meetup&lt;/a&gt;.&lt;/p&gt;</content><category term="Python"></category><category term="Encontros"></category></entry><entry><title>Primeiro encontro do ano</title><link href="http://grupypr.github.io/2017/primeiro-encontro-do-ano.html" rel="alternate"></link><published>2017-02-13T10:20:00-02:00</published><updated>2017-02-13T10:20:00-02:00</updated><author><name>Álvaro Justen</name></author><id>tag:grupypr.github.io,2017-02-13:/2017/primeiro-encontro-do-ano.html</id><summary type="html">&lt;p&gt;Ontem (12 de fevereiro de 2017) rolou o primeiro encontro do
+&lt;a href="https://grupypr.github.io/"&gt;GruPy-PR&lt;/a&gt; do ano - e pelo que conversamos nesse
+ano rolarão muuuitos outros! :)&lt;/p&gt;
+&lt;p&gt;O encontro aconteceu em um espaço para festas do condomínio onde mora o Eduardo
+Bratz, que gentilmente nos recebeu por lá. =) Rolou sinuca, cerveja, petiscos,
+muita conversa …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Ontem (12 de fevereiro de 2017) rolou o primeiro encontro do
+&lt;a href="https://grupypr.github.io/"&gt;GruPy-PR&lt;/a&gt; do ano - e pelo que conversamos nesse
+ano rolarão muuuitos outros! :)&lt;/p&gt;
+&lt;p&gt;O encontro aconteceu em um espaço para festas do condomínio onde mora o Eduardo
+Bratz, que gentilmente nos recebeu por lá. =) Rolou sinuca, cerveja, petiscos,
+muita conversa sobre diversos assuntos maneiros e algumas apresentações sobre
+&lt;a href="http://python.org/"&gt;Python&lt;/a&gt;, obviamente.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/images/2017-02-12-encontro.jpg"&gt;&lt;img alt="Galera reunida no primeiro encontro de
+2017" src="/images/thumbnail/2017-02-12-encontro.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Participantes&lt;/h2&gt;
+&lt;p&gt;No total tivemos 8 pythonistas no encontro:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/turicas/"&gt;Álvaro Justen&lt;/a&gt; (eu)&lt;/li&gt;
+&lt;li&gt;Eduardo Bratz&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ellisonleao/"&gt;Ellison Leão&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ricobl"&gt;Enrico Batista da Luz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lucaskotres"&gt;Lucas Kotres&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/marcelobelli"&gt;Marcelo Belli&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/ramiroluz"&gt;Ramiro Luz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tserafim"&gt;Thiago Serafim&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Apresentações&lt;/h2&gt;
+&lt;p&gt;Rolaram duas apresentações técnicas informais:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://github.com/marcelobelli"&gt;Marcelo Belli&lt;/a&gt; falou sobre seu projeto
+  &lt;a href="https://github.com/marcelobelli/PyNFSe"&gt;PyNFSe&lt;/a&gt;&lt;/strong&gt;: uma biblioteca que faz
+  interface com o sistema de emissão de notas fiscais de serviço com a
+  &lt;a href="http://www.curitiba.pr.gov.br/"&gt;Prefeitura de Curitiba&lt;/a&gt; - dessa maneira você
+  consegue automatizar o processo de emissão dessas notas e não precisa lidar
+  com a interface &lt;a href="https://en.wikipedia.org/wiki/SOAP"&gt;SOAP&lt;/a&gt; existente. Ele
+  também está criando uma &lt;a href="https://github.com/marcelobelli/restNFSe"&gt;API REST para emissão das
+  notas&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://github.com/ellisonleao"&gt;Ellison Leão&lt;/a&gt; nos mostrou a arquitetura que
+  usou no seu projeto
+  &lt;a href="https://github.com/ellisonleao/pyshorteners"&gt;pyshorteners&lt;/a&gt;&lt;/strong&gt;, que talvez
+  seja útil no &lt;a href="https://github.com/marcelobelli/PyNFSe"&gt;PyNFSe&lt;/a&gt; (quando a
+  biblioteca for suportar outras prefeituras); mostrou rapidamente também o
+  &lt;a href="https://github.com/ellisonleao/howdoi"&gt;howdoi&lt;/a&gt; (uma interface de linha de
+  comando para encontrar respostas no &lt;a href="http://stackoverflow.com/"&gt;Stack
+  Overflow&lt;/a&gt;) que ele está implementando em
+  &lt;a href="https://golang.org/"&gt;Go&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Além de Python...&lt;/h2&gt;
+&lt;p&gt;O encontro não é focado em falar somente de &lt;a href="http://python.org/"&gt;Python&lt;/a&gt;: a
+ideia é &lt;strong&gt;reunir a galera, criar laços e o que surgir de papo tá valendo&lt;/strong&gt;,
+desde que todo mundo esteja se divertindo e compartilhando conhecimento.&lt;/p&gt;
+&lt;p&gt;Nosso &lt;a href="https://github.com/ramiroluz"&gt;mestre cervejeiro Ramiro Luz&lt;/a&gt; contou sobre
+o &lt;strong&gt;processo de criação da sua cervejaria&lt;/strong&gt;, os testes que está fazendo e
+detalhes sobre os processos que está usando em sua nova receita (que a galera
+ficou ansiosa pra experimentar). A receita que está sendo testada fica pronta
+em um mês e quem faz parte do &lt;a href="https://grupypr.github.io/"&gt;GruPy-PR&lt;/a&gt; terá o
+privilégio de experimentá-la em breve. :D&lt;/p&gt;
+&lt;p&gt;Eu falei um pouco sobre &lt;strong&gt;café (torras, moagens e processos de extração)&lt;/strong&gt; -
+recentemente alguns integrantes do grupo e eu pedimos vários quilogramas do
+&lt;a href="https://www.facebook.com/selecaodomario"&gt;Café Seleção do Mário&lt;/a&gt; (torrefação de
+um amigo meu, lá das montanhas capixabas) e isso deixou um monte de gente
+curiosa sobre o assunto.  No próximo encontro farei uma apresentação mais
+detalhada sobre o processo de beneficiamento do café, pra deixar mais gente
+viciada.&lt;/p&gt;
+&lt;p&gt;Falamos rapidamente sobre
+&lt;strong&gt;&lt;a href="https://docs.python.org/3/library/asyncio.html"&gt;I/O assíncrono&lt;/a&gt;&lt;/strong&gt; e o
+&lt;a href="https://github.com/ellisonleao"&gt;Ellison&lt;/a&gt; comentou sobre sua experiência com
+&lt;a href="https://golang.org/"&gt;golang&lt;/a&gt; e eu falei um pouquinho sobre minhas brincadeiras
+com &lt;a href="http://www.erlang.org/"&gt;Erlang&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Decisões Que Tomamos&lt;/h2&gt;
+&lt;p&gt;Identificamos que as pessoas que mais participam no grupo são sempre as mesmas,
+ou seja, &lt;strong&gt;está faltando gente nova&lt;/strong&gt;. Chegamos à conclusão que &lt;strong&gt;falta
+frequência fixa nos encontros e precisamos de encontros mais informais&lt;/strong&gt;, para
+não espantar os novatos - daí decidimos que:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vamos tentar &lt;strong&gt;aumentar a capacidade do &lt;a href="http://www.meetup.com/pt/GruPy-PR/"&gt;grupo do GruPy-PR no
+  meetup&lt;/a&gt;&lt;/strong&gt; sem precisar usar o plano pago
+  (parece que existe uma forma gratuita, mas ainda não sabemos como), pois
+  atualmente temos limite de 50 membros (o grupo está lotado e tem gente
+  querendo entrar);&lt;/li&gt;
+&lt;li&gt;Faremos &lt;strong&gt;pelo menos um encontro por mês&lt;/strong&gt; e alternaremos entre um encontro
+  mais informal (em um bar/restaurante) - tipo o que a galera do
+  &lt;a href="https://pythonmg.github.io"&gt;Python-MG&lt;/a&gt; faz, o PyBHar - e outro mais formal,
+  com apresentações de palestras. Esperamos que os mais iniciantes fiquem menos
+  inibidos no encontro informal e queremos encorajar todo mundo a compartilhar
+  conhecimento nas apresentações (que não precisam ser sobre
+  &lt;a href="http://python.org/"&gt;Python&lt;/a&gt; sempre);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Relataremos os encontros em um blog&lt;/strong&gt;, para divulgar o que estamos
+  fazendo e deixar os que não foram no encontro com vontade de ir aos próximos
+  (é exatamente o que estou fazendo nessa publicação :);&lt;/li&gt;
+&lt;li&gt;Tentaremos &lt;strong&gt;gravar as palestras&lt;/strong&gt; para difundir o conteúdo das apresentações
+  (para quem não puder ir aos encontros), divulgar o que está sendo com
+  &lt;a href="http://python.org/"&gt;Python&lt;/a&gt; feito em terras paranaenses e divulgar os
+  encontros do grupo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Participe!&lt;/h2&gt;
+&lt;p&gt;Se você mora no Paraná e quer ficar por dentro do que estamos fazendo por aqui,
+entre no &lt;a href="https://t.me/grupy_pr"&gt;nosso grupo do Telegram&lt;/a&gt; e na
+&lt;a href="https://groups.google.com/forum/#!forum/grupy-pr"&gt;nossa lista de discussão&lt;/a&gt;,
+daí apresente-se e participe dos próximos encontros.&lt;/p&gt;
+&lt;h2&gt;Próximo Encontro&lt;/h2&gt;
+&lt;p&gt;Nosso próximo encontro já está marcado: &lt;strong&gt;&lt;a href="https://www.meetup.com/GruPy-PR/events/237704102/"&gt;3 de março de 2017 (sexta-feira) às
+19:30 no Quintal do Monge (R. Dr. Claudino dos Santos,
+24)&lt;/a&gt;&lt;/strong&gt;. Esse é nosso encontro social e não
+teremos apresentação de palestras.&lt;/p&gt;
+&lt;p&gt;Até lá! =)&lt;/p&gt;</content><category term="Python"></category><category term="Encontros"></category></entry><entry><title>Encontro dia 09 de Setembro</title><link href="http://grupypr.github.io/2015/encontro-dia-09-de-setembro.html" rel="alternate"></link><published>2015-09-09T00:00:00-03:00</published><updated>2015-09-09T00:00:00-03:00</updated><author><name>William Souza</name></author><id>tag:grupypr.github.io,2015-09-09:/2015/encontro-dia-09-de-setembro.html</id><summary type="html">&lt;p&gt;Olá,&lt;/p&gt;
+&lt;p&gt;Tivemos o quinto encontro e pretendemos continuar uma agenda quinzenal com o próximo marcado para o dia 23/09/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 5 pessoas, fotos e lista dos presentes no meetup&lt;/p&gt;
+&lt;h2&gt;O que fizemos&lt;/h2&gt;
+&lt;p&gt;Continuamos o projeto com flask &lt;a href="https://github.com/GruPyPR/findresistor"&gt;findresistor&lt;/a&gt;
+Tivemos a apresentação &lt;strong&gt;PyLadies-Curitiba&lt;/strong&gt; e sobre o …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Olá,&lt;/p&gt;
+&lt;p&gt;Tivemos o quinto encontro e pretendemos continuar uma agenda quinzenal com o próximo marcado para o dia 23/09/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 5 pessoas, fotos e lista dos presentes no meetup&lt;/p&gt;
+&lt;h2&gt;O que fizemos&lt;/h2&gt;
+&lt;p&gt;Continuamos o projeto com flask &lt;a href="https://github.com/GruPyPR/findresistor"&gt;findresistor&lt;/a&gt;
+Tivemos a apresentação &lt;strong&gt;PyLadies-Curitiba&lt;/strong&gt; e sobre o workshop &lt;strong&gt;Django girls&lt;/strong&gt; feito pela lady Vanessa Romankiv.&lt;/p&gt;
+&lt;h2&gt;Próximos passos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Arrumar mais membros para o grupo.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para continuar com a migração da tradução do Django do repositório do django-brasil para o transifex.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para atualizar o site do django-brasil.&lt;/li&gt;
+&lt;li&gt;Organizar o Djangogirls&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Quem pode participar?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Quem quer aprender Python.&lt;/li&gt;
+&lt;li&gt;Quem quer aprender Django.&lt;/li&gt;
+&lt;li&gt;Quem quer aprender QT/GTK.&lt;/li&gt;
+&lt;li&gt;Quem quer trazer outros projetos para o grupo.&lt;/li&gt;
+&lt;li&gt;Quem quer apenas bater um papo tomar uma cerveja/refri/cafe/água.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Todos são bem vindos!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Os eventos do grupy-pr segue o seguinte &lt;a href="http://associacao.python.org.br/code-of-conduct/index.html"&gt;código de conduta para anti-assédio e anti-bullying&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Como participar do grupo?&lt;/h2&gt;
+&lt;p&gt;Comece lendo sobre nossa documentação sobre encontros e a participar nas redes sociais.
+Gostou? Então venha brincar com a gente no próximo encontro!&lt;/p&gt;
+&lt;h2&gt;Apoio&lt;/h2&gt;
+&lt;p&gt;Queremos agradecer a ajuda dos badass que proveram o espaço.&lt;/p&gt;
+&lt;p&gt;http://garagemhacker.org/blog/&lt;/p&gt;</content><category term="python"></category><category term="encontros"></category></entry><entry><title>Encontro dia 26 de Agosto</title><link href="http://grupypr.github.io/2015/encontro-dia-26-de-agosto.html" rel="alternate"></link><published>2015-08-26T00:00:00-03:00</published><updated>2015-08-26T00:00:00-03:00</updated><author><name>William Souza</name></author><id>tag:grupypr.github.io,2015-08-26:/2015/encontro-dia-26-de-agosto.html</id><summary type="html">&lt;p&gt;Olá,&lt;/p&gt;
+&lt;p&gt;Tivemos o quarto encontro e pretendemos continuar uma agenda quinzenal com o próximo marcado para o dia 09/09/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 11 pessoas, fotos e lista dos presentes no &lt;a href="http://www.meetup.com/GruPy-PR/events/224632839/"&gt;meetup&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;O que fizemos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Começamos um projeto com flask https://github.com/GruPyPR/findresistor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Próximos passos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Arrumar …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;p&gt;Olá,&lt;/p&gt;
+&lt;p&gt;Tivemos o quarto encontro e pretendemos continuar uma agenda quinzenal com o próximo marcado para o dia 09/09/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 11 pessoas, fotos e lista dos presentes no &lt;a href="http://www.meetup.com/GruPy-PR/events/224632839/"&gt;meetup&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;O que fizemos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Começamos um projeto com flask https://github.com/GruPyPR/findresistor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Próximos passos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Arrumar mais membros para o grupo.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para continuar com a migração da tradução do Django do repositório do django-brasil para o transifex.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para atualizar o site do django-brasil.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Quem pode participar?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Quem quer aprender Python.&lt;/li&gt;
+&lt;li&gt;Quem quer aprender Django.&lt;/li&gt;
+&lt;li&gt;Quem quer aprender QT/GTK.&lt;/li&gt;
+&lt;li&gt;Quem quer trazer outros projetos para o grupo.&lt;/li&gt;
+&lt;li&gt;Quem quer apenas bater um papo tomar uma cerveja/refri/cafe/água.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Todos são bem vindos!&lt;/p&gt;
+&lt;p&gt;Os eventos do grupy-pr segue o seguinte código de conduta para anti-assédio e anti-bullying http://associacao.python.org.br/code-of-conduct/index.html&lt;/p&gt;
+&lt;h2&gt;Como participar do grupo?&lt;/h2&gt;
+&lt;p&gt;Comece lendo sobre nossa documentação sobre &lt;a href="https://github.com/GruPyPR/encontros"&gt;encontros&lt;/a&gt; e a participar nas &lt;a href="https://github.com/GruPyPR/encontros#nossas-redes-sociais"&gt;redes sociais&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Gostou? Então venha brincar com a gente no próximo encontro!&lt;/p&gt;
+&lt;h2&gt;Apoio:&lt;/h2&gt;
+&lt;p&gt;Queremos agradecer a ajuda dos badass que proveram o espaço.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;http://garagemhacker.org/blog/&lt;/li&gt;
+&lt;/ul&gt;</content><category term="python"></category><category term="encontros"></category></entry><entry><title>Encontro dia 12 de Agosto</title><link href="http://grupypr.github.io/2015/encontro-dia-12-de-agosto.html" rel="alternate"></link><published>2015-08-12T00:00:00-03:00</published><updated>2015-08-12T00:00:00-03:00</updated><author><name>William Souza</name></author><id>tag:grupypr.github.io,2015-08-12:/2015/encontro-dia-12-de-agosto.html</id><summary type="html">&lt;p&gt;Olá,&lt;/p&gt;
+&lt;p&gt;Tivemos o terceiro encontro e pretendemos continuar uma agenda quinzenal com o próximo marcado para o dia 26/08/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 11 pessoas, fotos e lista dos presentes no meetup&lt;/p&gt;
+&lt;h2&gt;O que fizemos&lt;/h2&gt;
+&lt;p&gt;Tivemos a apresentação &lt;strong&gt;PyLadies-Curitiba&lt;/strong&gt; e sobre o workshop &lt;strong&gt;Django girls&lt;/strong&gt; feito pela lady …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Olá,&lt;/p&gt;
+&lt;p&gt;Tivemos o terceiro encontro e pretendemos continuar uma agenda quinzenal com o próximo marcado para o dia 26/08/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 11 pessoas, fotos e lista dos presentes no meetup&lt;/p&gt;
+&lt;h2&gt;O que fizemos&lt;/h2&gt;
+&lt;p&gt;Tivemos a apresentação &lt;strong&gt;PyLadies-Curitiba&lt;/strong&gt; e sobre o workshop &lt;strong&gt;Django girls&lt;/strong&gt; feito pela lady Vanessa Romankiv.
+Também tivemos uma apresentação do framework &lt;a href="http://web2py.com/"&gt;web2py&lt;/a&gt; feita pelo Fabiano Engler Neto.&lt;/p&gt;
+&lt;h2&gt;Próximos passos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Arrumar mais membros para o grupo.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para continuar com a migração da tradução do Django do repositório do django-brasil para o transifex.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para atualizar o site do django-brasil.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Quem pode participar?&lt;/h2&gt;
+&lt;p&gt;Quem quer aprender Python.
+- Quem quer aprender Django.
+- Quem quer aprender QT/GTK.
+- Quem quer trazer outros projetos para o grupo.
+- Quem quer apenas bater um papo tomar uma cerveja/refri/cafe/água.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Todos são bem vindos!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Os eventos do grupy-pr seguem o seguinte &lt;a href="http://associacao.python.org.br/code-of-conduct/index.html"&gt;código de conduta para anti-assédio e anti-bullying&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Como participar do grupo?&lt;/h2&gt;
+&lt;p&gt;Comece lendo sobre nossa documentação sobre encontros e a participar nas redes sociais.
+Gostou? Então venha brincar com a gente no próximo encontro!&lt;/p&gt;
+&lt;p&gt;Apoio:&lt;/p&gt;
+&lt;p&gt;Queremos agradecer a ajuda dos badass que proveram o espaço.&lt;/p&gt;
+&lt;p&gt;http://www.titansgroup.com.br/
+http://aldeiaco.com.br/&lt;/p&gt;</content><category term="python"></category><category term="encontros"></category></entry><entry><title>Encontro dia 30 de Julho</title><link href="http://grupypr.github.io/2015/encontro-dia-30-de-julho.html" rel="alternate"></link><published>2015-07-30T00:00:00-03:00</published><updated>2015-07-30T00:00:00-03:00</updated><author><name>William Souza</name></author><id>tag:grupypr.github.io,2015-07-30:/2015/encontro-dia-30-de-julho.html</id><summary type="html">&lt;p&gt;Olá,&lt;/p&gt;
+&lt;p&gt;Ontem tivemos o segundo encontro e pretendemos continuar uma agenda quinzenal com o próximo marcado para o dia 12/08/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 12 pessoas, fotos e lista incompleta dos presentes no meetup. Também tivemos a presença de duas ladies (Vanessa Romankiv e Lorien Maitê) rumo a …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Olá,&lt;/p&gt;
+&lt;p&gt;Ontem tivemos o segundo encontro e pretendemos continuar uma agenda quinzenal com o próximo marcado para o dia 12/08/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 12 pessoas, fotos e lista incompleta dos presentes no meetup. Também tivemos a presença de duas ladies (Vanessa Romankiv e Lorien Maitê) rumo a fundação do &lt;strong&gt;PyLadies-PR&lt;/strong&gt;!&lt;/p&gt;
+&lt;p&gt;O que fizemos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Usamos é atualizamos a documentação sobre ambientes virtuais&lt;/li&gt;
+&lt;li&gt;Fechamos o &lt;a href="https://github.com/GruPyPR/cwbmess/pull/2"&gt;pull request #2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Iniciamos uma conversa sobre a fundação do &lt;strong&gt;PyLadies-PR&lt;/strong&gt;!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Próximos passos&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Arrumar mais membros para o grupo.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para continuar com a migração da tradução do Django do repositório do django-brasil para o transifex.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para atualizar o site do django-brasil.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Quem pode participar?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Quem quer aprender Python.&lt;/li&gt;
+&lt;li&gt;Quem quer aprender Django.&lt;/li&gt;
+&lt;li&gt;Quem quer aprender QT/GTK.&lt;/li&gt;
+&lt;li&gt;Quem quer trazer outros projetos para o grupo.&lt;/li&gt;
+&lt;li&gt;Quem quer apenas bater um papo tomar uma cerveja/refri/cafe/água.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Todos são bem vindos&lt;/em&gt;!&lt;/p&gt;
+&lt;p&gt;Os eventos do grupy-pr segue o seguinte &lt;a href="http://associacao.python.org.br/code-of-conduct/index.html"&gt;código de conduta para anti-assédio e anti-bullying&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Como participar do grupo?&lt;/h2&gt;
+&lt;p&gt;Comece lendo sobre nossa documentação sobre encontros e a participar nas redes sociais.&lt;/p&gt;
+&lt;p&gt;Gostou? Então venha brincar com a gente no próximo encontro!&lt;/p&gt;
+&lt;h2&gt;Apoio&lt;/h2&gt;
+&lt;p&gt;Queremos agradecer a ajuda dos badass que proveram o espaço.&lt;/p&gt;
+&lt;p&gt;http://garagemhacker.org/&lt;/p&gt;</content><category term="python"></category><category term="encontros"></category></entry><entry><title>Encontro dia 15 de Julho</title><link href="http://grupypr.github.io/2015/encontro-dia-15-de-julho.html" rel="alternate"></link><published>2015-07-15T00:00:00-03:00</published><updated>2015-07-15T00:00:00-03:00</updated><author><name>William Souza</name></author><id>tag:grupypr.github.io,2015-07-15:/2015/encontro-dia-15-de-julho.html</id><summary type="html">&lt;p&gt;Olá pessoas,&lt;/p&gt;
+&lt;p&gt;Depois de um longo tempo sem encontros tivemos um ontem e pretendemos manter uma agenda quinzenal com o próximo marcado para o dia 19/07/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 3 pessoas, Eu, Ramiro Luz e o Rafael Leal (foto em anexo).&lt;/p&gt;
+&lt;p&gt;O Rafael é iniciante em Python …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Olá pessoas,&lt;/p&gt;
+&lt;p&gt;Depois de um longo tempo sem encontros tivemos um ontem e pretendemos manter uma agenda quinzenal com o próximo marcado para o dia 19/07/2015.&lt;/p&gt;
+&lt;p&gt;Tivemos um publico de 3 pessoas, Eu, Ramiro Luz e o Rafael Leal (foto em anexo).&lt;/p&gt;
+&lt;p&gt;O Rafael é iniciante em Python e gostaria de aprender Django para desenvolver um projeto para gerenciar entregas com bike messengers.&lt;/p&gt;
+&lt;h2&gt;Então a atividade proposta neste encontro foi:&lt;/h2&gt;
+&lt;p&gt;Começar o desenvolvimento de uma aplicação web como uma equipe recém montada em seu primeiro dia de trabalho e que a missão seria criar um serviço para gerenciar entregas com bicicletas.&lt;/p&gt;
+&lt;h2&gt;Com esta definição do cliente:&lt;/h2&gt;
+&lt;p&gt;Hoje gerenciamos tudo de forma manual e a solicitação de corridas é feita via telefone.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A primeira característica desejável e gerenciar o cadastro de nossos clientes.&lt;/li&gt;
+&lt;li&gt;A segunda e gerenciar zonas de entregas e o calculo dos valores.&lt;/li&gt;
+&lt;li&gt;A terceira é permitir que seus clientes possam solicitar serviços  de entrega via interface web.&lt;/li&gt;
+&lt;li&gt;A quarta é disponibilizar uma API rest para integração com sistemas de terceiros.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;E está foi a definição da equipe:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilizar Python 3 e Django.&lt;/li&gt;
+&lt;li&gt;Licenciar com GPL3.&lt;/li&gt;
+&lt;li&gt;Usar Github para gerenciar todo o projeto.&lt;/li&gt;
+&lt;li&gt;Usar travis como CI.&lt;/li&gt;
+&lt;li&gt;Escrever testes com pytest.&lt;/li&gt;
+&lt;li&gt;Para API rest usar django-rest-framework.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;O que fizemos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Criamos uma organização no github chamada GruPyPR.&lt;/li&gt;
+&lt;li&gt;Criamos um repositório chamado cwbmess.&lt;/li&gt;
+&lt;li&gt;Escrevemos a primeira tarefa https://github.com/GruPyPR/cwbmess/issues/1.&lt;/li&gt;
+&lt;li&gt;Fizemos um push para demostrar o flow de trabalho com github para o Rafael.&lt;/li&gt;
+&lt;li&gt;Criamos um pull request também demostrar o flow de trabalho com github para o Rafael.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Próximos passos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Arrumar mais membros para equipe.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para continuar com a migração da tradução do Django do repositório do django-brasil para o transifex.&lt;/li&gt;
+&lt;li&gt;Criar um projeto para atualizar o site do django-brasil.&lt;/li&gt;
+&lt;li&gt;Achar uma pylady para fundar PyLadies-PR.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Quem pode participar?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Quem não sabe Python.&lt;/li&gt;
+&lt;li&gt;Quem não sabe Django.&lt;/li&gt;
+&lt;li&gt;Quem quer trazer outros projetos para o grupo.&lt;/li&gt;
+&lt;li&gt;Quem quer apenas bater um papo tomar uma cerveja/refri/cafe/água.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Todos são bem vindos!&lt;/p&gt;
+&lt;p&gt;Os eventos do grupy-pr segue o seguinte código de conduta para anti-assédio e anti-bullying http://associacao.python.org.br/code-of-conduct/index.html&lt;/p&gt;
+&lt;h2&gt;Como participar nos projetos do grupo?&lt;/h2&gt;
+&lt;p&gt;Temos apenas um por enquanto então leia a tarefa 1 e o pull request no github
+e tire suas duvidas ou faça sugestão usando comentários.&lt;/p&gt;
+&lt;p&gt;Gostou? Então venha brincar com a gente no próximo encontro!&lt;/p&gt;
+&lt;h2&gt;Apoio:&lt;/h2&gt;
+&lt;p&gt;Queremos agradecer a ajuda dos badass que proveram o espaço, cervejas e salgadinhos para o encontro.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;http://www.titansgroup.com.br/&lt;/li&gt;
+&lt;li&gt;http://aldeiaco.com.br/&lt;/li&gt;
+&lt;li&gt;http://curitibamessenger.com.br/&lt;/li&gt;
+&lt;li&gt;https://github.com/FreeBrewers&lt;/li&gt;
+&lt;/ul&gt;</content><category term="python"></category><category term="encontros"></category></entry></feed>
